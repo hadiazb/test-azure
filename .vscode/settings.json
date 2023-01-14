@@ -1,0 +1,5 @@
+{
+	"appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+	"appService.defaultWebAppToDeploy": "/subscriptions/eb887599-4f3d-44ea-99ae-cc67b1b377e1/AppServices/subscriptions/eb887599-4f3d-44ea-99ae-cc67b1b377e1/resourceGroups/cristian/providers/Microsoft.Web/sites/cristian-barbosa",
+	"appService.deploySubpath": "."
+}
